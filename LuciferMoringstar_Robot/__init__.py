@@ -28,11 +28,11 @@ HELP = """
 """
 
 ABOUT = """
-➥ Name : Aleena
+➥ **Name : Aleena**
     
-➥ Creator : Alen
+➥ **Creator : Alen**
 
-➥ Language : Python3
+➥ **Language : Python3**
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ **Library : Pyrogram Asyncio 1.13.0**
 """
