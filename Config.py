@@ -31,7 +31,7 @@ AUTH_GROUPS = [int(admin) for admin in environ.get("AUTH_GROUPS", "").split()]
 DATABASE_URI = environ['DATABASE_2']
 DATABASE_NAME = environ['BOT_NAME']
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
-TUTORIAL = t.me/space4cinemas
+TUTORIAL = "t.me/space4cinemas"
 # Messages
 default_start_msg = """
 **എന്നെ 'space4cinemas' groupil മാത്രേ ഉപയോഗിക്കാൻ പറ്റു എന്ന് അറിയില്ലേ**
