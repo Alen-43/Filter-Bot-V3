@@ -1,7 +1,7 @@
 {
     "name": "Auto Filter Bot V3",
     "description": "A greater auto filter bot with features like IMDb support,inline mode,broadcast feature etc..",
-    "logo":"https://telegra.ph/file/ad9cb7fc42ec0e5e6d006.jpg",
+    "logo":"https://telegra.ph/file/8cf46b896b34edcab30fe.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/DalinMathew/AutoFilterBotV3",
-    "repository": "https://github.com/DalinMathew/AutoFilterBotV3",
+    "repository": "https://github.com/Alen-43/Filter-Bot-V3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
