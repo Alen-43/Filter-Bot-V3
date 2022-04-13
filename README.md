@@ -20,16 +20,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3)
-
-#### Hard Way
-```bash
-# Create virtual environment
-python3 -m venv env
-
-# Activate virtual environment
-env\Scripts\activate.bat # For Windows
-source env/bin/activate # For Linux or MacOS
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alen-43/Filter-Bot-V3)
 
 # Install Packages
 pip3 install -r requirements.txt
